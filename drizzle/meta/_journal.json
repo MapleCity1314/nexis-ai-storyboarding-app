@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1763951381832,
+      "tag": "0000_simple_the_twelve",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1763952275658,
+      "tag": "0001_dusty_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1763952882900,
+      "tag": "0002_closed_invisible_woman",
+      "breakpoints": true
+    }
+  ]
+}
