@@ -226,4 +226,4 @@ MIT License
 
 ---
 
-Made with ❤️ by Nexis Team
+Made with ❤️ by presto
